@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vczero/node-weibo.git"
+    "url": "https://github.com/Leask/node-weibo.git"
   },
-  "author": "vczero, xizhonghua",
+  "author": "vczero, xizhonghua, leask",
   "license": "Apache Licence 2.0",
   "bugs": {
-    "url": "https://github.com/vczero/node-weibo/issues"
+    "url": "https://github.com/Leask/node-weibo/issues"
   },
   "keywords": [
     "weibo",
@@ -33,7 +33,7 @@
     "weibonode",
     "weiboNode"
   ],
-  "homepage": "https://github.com/vczero/node-weibo",
+  "homepage": "https://github.com/Leask/node-weibo",
   "dependencies": {
 	"open": "*"
   }
