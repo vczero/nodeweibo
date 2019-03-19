@@ -35,6 +35,6 @@
   ],
   "homepage": "https://github.com/Leask/node-weibo",
   "dependencies": {
-	"open": "*"
+    "opn": "^5.5.0"
   }
 }
