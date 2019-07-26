@@ -1,6 +1,6 @@
 
 {
-	
+
 	"OAuth2":[
 		{
 			"func":"access_token",
@@ -158,6 +158,12 @@
 			"func":"update",
 			"host":"https://api.weibo.com",
 			"path":"/2/statuses/update.json",
+			"rmethod":["POST"]
+		},
+		{
+			"func":"share",
+			"host":"https://api.weibo.com",
+			"path":"/2/statuses/share.json",
 			"rmethod":["POST"]
 		},
 		{
